@@ -1,0 +1,39 @@
+PASS ECDH / HKDF gives the same session key on both devices
+PASS Session key differs from invitation bearer secret
+PASS AES-GCM round trip
+PASS Fresh random nonce per packet
+PASS Invitation secret cannot decrypt session traffic
+PASS Tampered ciphertext rejected
+PASS Cross-pair packet rejected
+PASS Expired refresh request rejected
+PASS Invalid coordinates rejected
+PASS Old fix is never labelled reusable
+PASS Switching to precision does not reuse an imprecise fix
+PASS Expired invitations rejected
+PASS Invite creates incoming approval request
+PASS Neither side active before approval
+PASS Both devices show the same verification digits
+PASS UI state contains no session key
+PASS Unapproved requester cannot activate location
+PASS Approval reaches invited device
+PASS Pairing itself performs no location measurement
+PASS One-use bootstrap secrets removed after approval
+PASS Disabled device receives request
+PASS Global sharing off blocks remote measurement
+PASS Opening request starts exactly one measurement
+PASS Encrypted reply updates peer location
+PASS Original measurement timestamp is preserved
+PASS Recent location reused for repeat request
+PASS Cache reuse does not start GPS again
+PASS Rapid open/refresh taps do not flood the relay
+PASS Exact packet replay ignored
+PASS Wrong sender identity is ignored even with valid envelope
+PASS Per-person stop blocks measurement
+PASS Second fresh measurement starts after cache cleared
+PASS Stopping during measurement cannot send a new location
+PASS Third measurement starts for revoke race test
+PASS Revocation propagates to peer
+PASS Late response cannot restore deleted peer
+PASS Stream delivery alone cannot falsely verify external push
+PASS External broadcast round trip enables push mode
+RESULT: 38 checks passed; Android services/sensors are substituted in this JVM test.

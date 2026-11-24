@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-14",
+  "application_id": "jp.haruyat.kokolink",
+  "min_android": 11,
+  "target_sdk": 35,
+  "apk_bytes": 123975,
+  "apk_sha256": "7c147b3530b1875835205aed9f3ae3d2e420daa8070cfc77088a9b32dc8e0ebd",
+  "certificate_sha256": "9ac0b869df528623891021d9bfe58507b2164a5d5c59e87e3e9cce43ef599c15",
+  "jvm_checks": 38,
+  "ui_checks": 52,
+  "physical_devices_tested": false,
+  "battery_usage_measured": false
+}

@@ -1,0 +1,53 @@
+PASS 320px map: no horizontal overflow
+PASS 320px people: no horizontal overflow
+PASS 320px power: no horizontal overflow
+PASS 320px mode selection updates UI
+PASS 320px sharing requires explicit consent
+PASS 320px shareable invitation QR renders
+PASS 320px invitation modal fits
+PASS 320px copy action sends deep link
+PASS 320px stale location visibly labelled
+PASS 320px measurement timestamp visible
+PASS 320px external push opt-in/test UI
+PASS 320px untrusted name cannot execute HTML
+PASS 320px no JavaScript runtime errors: []
+PASS 393px map: no horizontal overflow
+PASS 393px people: no horizontal overflow
+PASS 393px power: no horizontal overflow
+PASS 393px mode selection updates UI
+PASS 393px sharing requires explicit consent
+PASS 393px shareable invitation QR renders
+PASS 393px invitation modal fits
+PASS 393px copy action sends deep link
+PASS 393px stale location visibly labelled
+PASS 393px measurement timestamp visible
+PASS 393px external push opt-in/test UI
+PASS 393px untrusted name cannot execute HTML
+PASS 393px no JavaScript runtime errors: []
+PASS 412px map: no horizontal overflow
+PASS 412px people: no horizontal overflow
+PASS 412px power: no horizontal overflow
+PASS 412px mode selection updates UI
+PASS 412px sharing requires explicit consent
+PASS 412px shareable invitation QR renders
+PASS 412px invitation modal fits
+PASS 412px copy action sends deep link
+PASS 412px stale location visibly labelled
+PASS 412px measurement timestamp visible
+PASS 412px external push opt-in/test UI
+PASS 412px untrusted name cannot execute HTML
+PASS 412px no JavaScript runtime errors: []
+PASS 840px map: no horizontal overflow
+PASS 840px people: no horizontal overflow
+PASS 840px power: no horizontal overflow
+PASS 840px mode selection updates UI
+PASS 840px sharing requires explicit consent
+PASS 840px shareable invitation QR renders
+PASS 840px invitation modal fits
+PASS 840px copy action sends deep link
+PASS 840px stale location visibly labelled
+PASS 840px measurement timestamp visible
+PASS 840px external push opt-in/test UI
+PASS 840px untrusted name cannot execute HTML
+PASS 840px no JavaScript runtime errors: []
+RESULT: 52 UI checks passed. Tile images and Native API mocked; no GPS or Android lifecycle exercised.
